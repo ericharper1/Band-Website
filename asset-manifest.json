@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/band-website/static/css/main.594b9b19.css",
+    "main.js": "/band-website/static/js/main.33ee15f8.js",
+    "static/js/787.9d3f87d6.chunk.js": "/band-website/static/js/787.9d3f87d6.chunk.js",
+    "index.html": "/band-website/index.html",
+    "main.594b9b19.css.map": "/band-website/static/css/main.594b9b19.css.map",
+    "main.33ee15f8.js.map": "/band-website/static/js/main.33ee15f8.js.map",
+    "787.9d3f87d6.chunk.js.map": "/band-website/static/js/787.9d3f87d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.594b9b19.css",
+    "static/js/main.33ee15f8.js"
+  ]
+}
