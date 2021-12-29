@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Band-Website/static/css/main.594b9b19.css",
-    "main.js": "/Band-Website/static/js/main.d089a506.js",
-    "static/js/787.9d3f87d6.chunk.js": "/Band-Website/static/js/787.9d3f87d6.chunk.js",
-    "index.html": "/Band-Website/index.html",
-    "main.594b9b19.css.map": "/Band-Website/static/css/main.594b9b19.css.map",
-    "main.d089a506.js.map": "/Band-Website/static/js/main.d089a506.js.map",
-    "787.9d3f87d6.chunk.js.map": "/Band-Website/static/js/787.9d3f87d6.chunk.js.map"
+    "main.css": "/static/css/main.594b9b19.css",
+    "main.js": "/static/js/main.5721627b.js",
+    "static/js/787.9d3f87d6.chunk.js": "/static/js/787.9d3f87d6.chunk.js",
+    "index.html": "/index.html",
+    "main.594b9b19.css.map": "/static/css/main.594b9b19.css.map",
+    "main.5721627b.js.map": "/static/js/main.5721627b.js.map",
+    "787.9d3f87d6.chunk.js.map": "/static/js/787.9d3f87d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.594b9b19.css",
-    "static/js/main.d089a506.js"
+    "static/js/main.5721627b.js"
   ]
 }
