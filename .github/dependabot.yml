@@ -5,7 +5,3 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-    commit-message:
-      prefix: "npm"
-    target-branch: "main"
-    labels: "npm dependencies"
