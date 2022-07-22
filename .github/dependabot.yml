@@ -15,5 +15,5 @@ updates:
     pull-request-branch-name:
       separator: "-"
     rebase-strategy: "disabled"
-    target-branch: "add-dependabot"
+    target-branch: "main"
     
