@@ -5,9 +5,15 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      time: "11:01"
+      time: "12:03"
       timezone: "US/Pacific"
     open-pull-requests-limit: 2
     reviewers:
       - "ericharper1"
+    labels:
+      - "dependencies"
+    pull-request-branch-name:
+      separator: "-"
+    rebase-strategy: "disabled"
+    target-branch: "add-dependabot"
     
